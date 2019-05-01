@@ -7,12 +7,17 @@
 /*  Basic Style 
 /* =================================== */
 
+
+
 .bnnr img{
   width: 110%;
   margin-left:-30px;
   position: fixed;
   z-index: -1;
 }
+
+
+
 
 
 
@@ -964,9 +969,10 @@ z-index: -1;
   color: blue;
 }
 
+
 @media (min-width: 375px) {
   .blokcontact{
-    margin-top:140px;
+    margin-top:180px;
   }
   }
 @media (min-width: 463px) {
@@ -993,22 +999,15 @@ z-index: -1;
   }
   }
 
-@media (min-width: 375px) {
-  .white{
-    background-color: white;
-    margin-top: 400px;
-    height:1000px;
-  }
-  }
 
   @media (min-width: 375px) {
     .white{
       background-color: white;
       margin-top:400px;
       height:650px;
-      width: 100%;
     }
     }
+ 
   
 
 @media (min-width: 463px) {
